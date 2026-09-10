@@ -63,3 +63,5 @@ JOIN aliases), so exact match is a conservative floor.
 - `finetune.ipynb` - full notebook (data, training, before/after eval)
 - `results/` - v1_baseline_results.json, v1_finetuned_results.json,
   v2_baseline_results.json, v2_finetuned_results.json
+- Adapter weights: https://huggingface.co/Akarshika/qwen25-3b-text2sql-lora
+- Runnable notebook on Kaggle: (https://www.kaggle.com/code/akarshikatripathi/qwen25-3b-text2sql-qlora)
